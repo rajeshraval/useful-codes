@@ -158,3 +158,5 @@ function custom_text_order_meta_handler( $item_id, $values, $cart_item_key ) {
     if( isset( $values['custom_data']['text'] ) )
         wc_add_order_item_meta( $item_id, "Custom Text", $values["custom_data"]["text"] );
 }
+
+Plugin for outlook email : https://wordpress.org/plugins/bit-smtp/
