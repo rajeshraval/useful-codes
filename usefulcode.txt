@@ -160,3 +160,8 @@ function custom_text_order_meta_handler( $item_id, $values, $cart_item_key ) {
 }
 
 Plugin for outlook email : https://wordpress.org/plugins/bit-smtp/
+
+
+Urls to add entries to google sheet.
+https://stackoverflow.com/questions/38949318/google-sheets-api-returns-the-caller-does-not-have-permission-when-using-serve
+https://www.nidup.io/blog/manipulate-google-sheets-in-php-with-api
